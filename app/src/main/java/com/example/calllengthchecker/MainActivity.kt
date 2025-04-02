@@ -33,7 +33,6 @@ class MainActivity : AppCompatActivity() {
 }
 
 // if the call is ended right after the check, it can take up to 10 seconds to propagate and might result in false positives
-//
 
 // manifest declared receivers only limited exceptions for implicit broadcasts
 // alarmManager is susceptible to Doze mode restrictions, ACTION_REQUEST_IGNORE_BATTERY_OPTIMIZATIONS

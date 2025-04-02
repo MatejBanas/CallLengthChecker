@@ -3,7 +3,6 @@ package com.example.calllengthchecker
 import android.content.Context
 import android.content.Intent
 import android.media.AudioManager
-import android.util.Log
 import androidx.core.app.JobIntentService
 
 class CallCheckService: JobIntentService() {
