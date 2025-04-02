@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CallLengthChecker</string>
+    <string name="call_length">Call length</string>
+</resources>
